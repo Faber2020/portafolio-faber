@@ -5,4 +5,5 @@
 4. Para hacer el commit de esos cambios
     git commit -m "Nombre del commit"
 5. Para hacer push al repositorio
-    git push origin "Nombre de la rama"
+    git push origin Nombre de la rama
+    (para ver nombre de la rama escribir comando git branch)
