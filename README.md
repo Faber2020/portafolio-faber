@@ -1,7 +1,8 @@
 1. Hacer cambios en el código
-2. Para añadir todos los cambios para hacer el commit
+2. Abrir Terminal en view terminal
+3. Para añadir todos los cambios para hacer el commit
     git add .
-3. Para hacer el commit de esos cambios
+4. Para hacer el commit de esos cambios
     git commit -m "Nombre del commit"
-4. Para hacer push al repositorio
+5. Para hacer push al repositorio
     git push origin "Nombre de la rama"

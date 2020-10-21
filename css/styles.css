@@ -66,6 +66,7 @@ body {
     margin: 10px 0;
     padding: 10px;
     color: white;
+    cursor: pointer;
 }
 
 .button-cta.button2 {
@@ -235,3 +236,77 @@ body {
 .boton {
     background-color: #70B52D;
 }
+.skills{
+    width: 100%;
+}
+.skills-container{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+.container-title{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0;
+}
+.skill-img{
+    width: 50px;
+}
+.skill-img img{
+    width: 100%;
+}
+.percentage{
+    width: 90%;
+    height: 50px;
+    
+    text-align: center;
+}
+.skill{
+    display: flex;
+    margin-top: 10px;
+}
+.percentage-bar{
+    height: 30px;
+    background-color: #5b9c15;
+    margin: 5px 0 0 10px;
+    font-size: 25px;
+    padding: 5px; 
+    font-weight: bold;
+}
+.contact{
+    width: 100%;
+}
+.contact-container{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+.contact-information,.contact-form{
+    width: 45%;
+    padding: 20px;
+}
+.contact-information{
+    font-size: 24px;
+}
+.contact-title{
+    font-weight: bold;
+    margin-right: 15px;
+}
+.social-media-img{
+    width: 40px;
+    margin: 10px;
+}
+.social-media a{
+    text-decoration: none;
+}
+.input-form{
+    width: 100%;
+    min-height: 30px;
+    margin: 10px;
+    font-size: 20px;
+}
+.form-message{
+    min-height: 150px;
+}
+
